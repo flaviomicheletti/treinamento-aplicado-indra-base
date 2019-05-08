@@ -1,15 +1,14 @@
 #
 
-segue a imagem mostrando onde ir
+CONFIGURANDO PROXY
 
-Google chorme > Configurações>proxy. ( apartir dai seguir a imagem)
-
-Por favor, incluir no proxy de vocês – via web.
- *proxylatam.indra.es – porta 80:80
-
+Google chorme > ConfiguraÃ§Ãµes>proxy. ( apartir dai seguir a imagem)
 
 ![aqui vai uma imagem](config-proxy.jpg)
 
-(((*Nessa parte avançado , quando utilizei ele deu problema e não reconheceu a INDRAWEB, após a remover ele funcionou normal*)))
+*Por favor, incluir no proxy de vocÃªs â€“ via web.
+ *proxylatam.indra.es â€“ porta 80:80
 
- Avançado :  *indra.es;*.indraweb.net;*.indra.es;*.indrabmb.es;192.168.*;10.*;172.*;redmine*;10.130.214.20;indproj*;200.205.110.227:1416;indproj*
+(((*Nessa parte avanÃ§ado , quando utilizei ele deu problema e nÃ£o reconheceu a INDRAWEB, apÃ³s a remover ele funcionou normal*)))
+
+ AvanÃ§ado :  *indra.es;*.indraweb.net;*.indra.es;*.indrabmb.es;192.168.*;10.*;172.*;redmine*;10.130.214.20;indproj*;200.205.110.227:1416;indproj*
