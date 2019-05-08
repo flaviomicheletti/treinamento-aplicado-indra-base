@@ -25,7 +25,7 @@ Then to remove all the http.proxy entries from either the global or the local fi
     git config --global --unset-all http.proxy  # to remove it from the global config
     git config --unset-all http.proxy           # to remove it from the local repo config file
 
-    [Fonte](https://stackoverflow.com/questions/11499805/git-http-proxy-setting)
+[Fonte](https://stackoverflow.com/questions/11499805/git-http-proxy-setting)
 
 
 ## Erro
