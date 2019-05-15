@@ -9,8 +9,8 @@ Write-Host - Prompt "","","Arquivo power_off_git_proxy gravado com sucesso!"
 
 Add-Content ./power_on_git_proxy.ps1 "
 $usergit = Read-Host -Prompt 'Digite seu usuário git'","
-Write-Host 'Seu usuario '$usergit'.'","
-git config --global http.proxy http://$usergit@proxylatam.indra.es:8080","
+Write-Host 'Seu usuario ' $usergit '.'","
+git config --global http.proxy http://' $usergit '@proxylatam.indra.es:8080","
 git config -l","
 $wait = Read-Host -Prompt 'Digite ENTER para sair'"
 
