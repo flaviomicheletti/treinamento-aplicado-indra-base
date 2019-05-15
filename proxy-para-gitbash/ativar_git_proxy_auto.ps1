@@ -1,9 +1,9 @@
 
-Read-Host -Prompt 'Digite seu usuário git'
+$usergit = Read-Host -Prompt 'Digite seu usuário git'
 
-Write-Host 'Seu usuario ''.'
+Write-Host 'Seu usuario ' $usergit '.'
 
-git config --global http.proxy http://@proxylatam.indra.es:8080
+git config --global http.proxy http://$usergit@proxylatam.indra.es:8080
 
 git config -l
 
