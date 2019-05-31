@@ -1,4 +1,4 @@
-# Liebrando o Proxy no Ubuntu19
+# Liberando o Proxy no Ubuntu19
 
 Basta alterar o arquivo
 
