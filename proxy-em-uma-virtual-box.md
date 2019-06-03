@@ -20,7 +20,7 @@ Você terá que alterar alguns arquivos inserindo informações do proxy.
 
 -----------------------------------------------------------------------------------------------------
 
-#Liberando o Proxy no Ubuntu19
+# Liberando o Proxy no Ubuntu19
 Basta alterar o arquivo
 
 /etc/apt/apt.conf.d/90curtin-aptproxy
